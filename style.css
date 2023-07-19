@@ -95,7 +95,7 @@ button {
   background-color: rgb(10, 201, 175);
   border: none;
   padding: 8px 25px;
-  margin: 0 600px 0 0;
+  margin: 0 400px 0 0;
   color: #ffff;
   border-radius: 50px;
   cursor: pointer;
@@ -121,7 +121,7 @@ button {
 
 .header-3 h1 {
   font-size: 20px;
-  margin: 0 670px 0 0;
+  margin: 0 430px 0 0;
 }
 .list-3 {
   text-decoration: none;
